@@ -6,7 +6,7 @@
 - [Presentations](#formative-link)
 - [Blogs](#blogs)
 - [Research Pack](#research-pack)
-- [Meta-narrative](#Meta-narrative)
+- [Meta Narrative](#Meta Narrative)
 - [Twine Production](#twine-production)
 - [Reflective Report](#reflective-report)
 
@@ -28,7 +28,7 @@
 
 ## Research Pack
 
-## Meta-narrative
+## Meta Narrative
 
 ## [Twine Production]()
 
