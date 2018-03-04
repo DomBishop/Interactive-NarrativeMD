@@ -19,7 +19,7 @@
 
 
 ## Blogs
-1. [Interviewing Humans](https://medium.com/@domonic_bishop/interviewing-humans-e88f91b27e9e)
+1. [What are some of the fundamental elements that are required to develop a interactive narrative and why?](https://medium.com/@domonic_bishop/what-are-some-of-the-fundamental-elements-that-are-required-to-develop-a-interactive-narrative-and-b1613b970d4f)
 2. [Learning to wireframe: 10 best practices](https://medium.com/@domonic_bishop/learning-to-wireframe-10-best-practices-ea232ade5127)
 3. [Inspiring museum interactives](https://medium.com/@domonic_bishop/pick-your-favourite-digital-museum-experience-32b55211c313)
 4. [Formative feedback action plan](https://medium.com/@domonic_bishop/review-the-formative-feedback-52dd4cd414b8)
