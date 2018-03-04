@@ -9,6 +9,7 @@
 - [Meta Narrative](#meta-narrative)
 - [Twine Production](#twine-production)
 - [Reflective Report](#reflective-report)
+- [Other/Unused Content](#other/unused-content)
 
 
 
@@ -26,10 +27,17 @@
 6. [Telling the story of your project / research](https://medium.com/@domonic_bishop/3-take-aways-from-get-the-most-out-of-your-research-with-storytelling-1bf9e8bb13d8)
 7. [UX choreography](https://medium.com/@domonic_bishop/3-main-take-aways-from-the-principles-of-ux-choreography-b89fbcf0d490)
 
-## Research Pack
+## [Research Pack](https://drive.google.com/open?id=1ZzpOAogtA2OiX-jvpGDOexpM2HZ3hbBRjK6F4RL6mSU)
 
-## Meta Narrative
+## [Meta Narrative](https://drive.google.com/open?id=16KBjz8Gv0RbDfv04seh4NkCbY8lHUhUjjN-ayZhn7Zw)
 
-## [Twine Production]()
+## [Twine Production](https://drive.google.com/open?id=1szO_1wCfqZZy63zy46R2nPLbEvU-Vk8v)
+
+This Twine production is based upon the idea that we would promote the IRL experience at the end of each chapter indicating where the story went next. It covers the events leading up to the first IRL experience.
 
 ## Reflective Report
+
+## Other/Unused Content
+
+[This is a chapter I tried writing early on in the term](https://docs.google.com/document/d/1Uxsz3YwopE0BkD8JrFrCa1xrfCnelJ635Ug2wjruGCg/edit?usp=sharing) which never got finished because we ended up changing our idea so drastically.
+
