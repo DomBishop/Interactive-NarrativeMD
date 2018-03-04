@@ -20,7 +20,7 @@
 
 ## Blogs
 1. [What are some of the fundamental elements that are required to develop a interactive narrative and why?](https://medium.com/@domonic_bishop/what-are-some-of-the-fundamental-elements-that-are-required-to-develop-a-interactive-narrative-and-b1613b970d4f)
-2. [Learning to wireframe: 10 best practices](https://medium.com/@domonic_bishop/learning-to-wireframe-10-best-practices-ea232ade5127)
+2. [Research, evidence and explain case studies of how storytelling has been instrumental in the creation of communities and cultures in modern times](https://medium.com/@domonic_bishop/research-evidence-and-explain-case-studies-of-how-storytelling-has-been-instrumental-in-the-d45c5f94cd35)
 3. [Inspiring museum interactives](https://medium.com/@domonic_bishop/pick-your-favourite-digital-museum-experience-32b55211c313)
 4. [Formative feedback action plan](https://medium.com/@domonic_bishop/review-the-formative-feedback-52dd4cd414b8)
 5. [User-testing: what did we learn?](https://medium.com/@domonic_bishop/what-did-you-learn-about-your-prototype-and-what-did-you-learn-about-user-testing-as-a-ux-method-a7204e936036)
