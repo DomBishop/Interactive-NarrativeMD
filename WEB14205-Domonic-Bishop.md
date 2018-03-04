@@ -9,7 +9,7 @@
 - [Meta Narrative](#meta-narrative)
 - [Twine Production](#twine-production)
 - [Reflective Report](#reflective-report)
-- [Other/Unused Content](#other/unused-content)
+- [Other and Unused Content](#other-and-unused-content)
 
 
 
@@ -37,7 +37,6 @@ This Twine production is based upon the idea that we would promote the IRL exper
 
 ## Reflective Report
 
-## Other/Unused Content
+## Other and Unused Content
 
 [This is a chapter I tried writing early on in the term](https://docs.google.com/document/d/1Uxsz3YwopE0BkD8JrFrCa1xrfCnelJ635Ug2wjruGCg/edit?usp=sharing) which never got finished because we ended up changing our idea so drastically.
-
