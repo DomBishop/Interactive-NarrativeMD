@@ -23,7 +23,7 @@
 2. [Research, evidence and explain case studies of how storytelling has been instrumental in the creation of communities and cultures in modern times](https://medium.com/@domonic_bishop/research-evidence-and-explain-case-studies-of-how-storytelling-has-been-instrumental-in-the-d45c5f94cd35)
 3. [What are your strength and weaknesses in relation to completing this project? And how are you going to address them?](https://medium.com/@domonic_bishop/what-are-your-strength-and-weaknesses-in-relation-to-completing-this-project-9a2427f0ac59)
 4. [Formative feedback action plan](https://medium.com/@domonic_bishop/review-the-formative-feedback-52dd4cd414b8)
-5. [User-testing: what did we learn?](https://medium.com/@domonic_bishop/what-did-you-learn-about-your-prototype-and-what-did-you-learn-about-user-testing-as-a-ux-method-a7204e936036)
+5. [Reflect and evidence your contribution to this group project so far. (Why, what, where, when & how)](https://medium.com/@domonic_bishop/reflect-and-evidence-your-contribution-to-this-group-project-so-far-why-what-where-when-how-81f252c08386)
 6. [Telling the story of your project / research](https://medium.com/@domonic_bishop/3-take-aways-from-get-the-most-out-of-your-research-with-storytelling-1bf9e8bb13d8)
 7. [UX choreography](https://medium.com/@domonic_bishop/3-main-take-aways-from-the-principles-of-ux-choreography-b89fbcf0d490)
 
@@ -39,4 +39,4 @@ This Twine production is based upon the idea that we would promote the IRL exper
 
 ## Other and Unused Content
 
-[This is a chapter I tried writing early on in the term](https://docs.google.com/document/d/1Uxsz3YwopE0BkD8JrFrCa1xrfCnelJ635Ug2wjruGCg/edit?usp=sharing) which never got finished because we ended up changing our idea so drastically.
+[This is a chapter I tried writing early on in the term](https://drive.google.com/open?id=1Uxsz3YwopE0BkD8JrFrCa1xrfCnelJ635Ug2wjruGCg) which never got finished because we ended up changing our idea so drastically.
