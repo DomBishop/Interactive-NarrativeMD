@@ -24,7 +24,7 @@
 4. [Pair up with another person (not your team mate) and give each other feedback on your peer learning mini-lessons.](https://medium.com/@domonic_bishop/pair-up-with-another-person-not-your-team-mate-and-give-each-other-feedback-on-your-peer-learning-51f90da7ade3)
 5. [Reflect and evidence your contribution to this group project so far. (Why, what, where, when & how)](https://medium.com/@domonic_bishop/reflect-and-evidence-your-contribution-to-this-group-project-so-far-why-what-where-when-how-81f252c08386)
 6. [If you could be the character in your own fictional story. What type of character would you be and why?](https://medium.com/@domonic_bishop/if-you-could-be-the-character-in-your-own-fictional-story-69245f66cdef)
-7. [Reflective Report]()
+7. [Reflective Report](https://medium.com/@domonic_bishop/interactive-narratives-reflective-report-3fb759397d2f)
 
 ## [Research Pack](https://drive.google.com/open?id=1ZzpOAogtA2OiX-jvpGDOexpM2HZ3hbBRjK6F4RL6mSU)
 
