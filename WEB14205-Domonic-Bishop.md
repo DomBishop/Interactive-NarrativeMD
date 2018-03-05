@@ -8,14 +8,13 @@
 - [Research Pack](#research-pack)
 - [Meta Narrative](#meta-narrative)
 - [Twine Production](#twine-production)
-- [Reflective Report](#reflective-report)
 - [Other and Unused Content](#other-and-unused-content)
 
 
 
 ## [Formative Link](https://drive.google.com/open?id=1w4gcM-3ps7OzZn6ZouOo0hQ5t6Gdfs8e)
 
-## [Summative Link]()
+## [Summative Link](https://drive.google.com/open?id=1EFtRTpbFCiyez8EGZthJpW2OJUIwZHKu7dOhOXx73Ys)
 
 
 ## Blogs
@@ -25,7 +24,7 @@
 4. [Pair up with another person (not your team mate) and give each other feedback on your peer learning mini-lessons.](https://medium.com/@domonic_bishop/pair-up-with-another-person-not-your-team-mate-and-give-each-other-feedback-on-your-peer-learning-51f90da7ade3)
 5. [Reflect and evidence your contribution to this group project so far. (Why, what, where, when & how)](https://medium.com/@domonic_bishop/reflect-and-evidence-your-contribution-to-this-group-project-so-far-why-what-where-when-how-81f252c08386)
 6. [If you could be the character in your own fictional story. What type of character would you be and why?](https://medium.com/@domonic_bishop/if-you-could-be-the-character-in-your-own-fictional-story-69245f66cdef)
-7. [UX choreography](https://medium.com/@domonic_bishop/3-main-take-aways-from-the-principles-of-ux-choreography-b89fbcf0d490)
+7. [Reflective Report]()
 
 ## [Research Pack](https://drive.google.com/open?id=1ZzpOAogtA2OiX-jvpGDOexpM2HZ3hbBRjK6F4RL6mSU)
 
@@ -34,8 +33,6 @@
 ## [Twine Production](https://drive.google.com/open?id=1szO_1wCfqZZy63zy46R2nPLbEvU-Vk8v)
 
 This Twine production is based upon the idea that we would promote the IRL experience at the end of each chapter indicating where the story went next. It covers the events leading up to the first IRL experience.
-
-## Reflective Report
 
 ## Other and Unused Content
 
