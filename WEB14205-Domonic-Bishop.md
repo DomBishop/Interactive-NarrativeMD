@@ -24,7 +24,7 @@
 3. [What are your strength and weaknesses in relation to completing this project? And how are you going to address them?](https://medium.com/@domonic_bishop/what-are-your-strength-and-weaknesses-in-relation-to-completing-this-project-9a2427f0ac59)
 4. [Pair up with another person (not your team mate) and give each other feedback on your peer learning mini-lessons.](https://medium.com/@domonic_bishop/pair-up-with-another-person-not-your-team-mate-and-give-each-other-feedback-on-your-peer-learning-51f90da7ade3)
 5. [Reflect and evidence your contribution to this group project so far. (Why, what, where, when & how)](https://medium.com/@domonic_bishop/reflect-and-evidence-your-contribution-to-this-group-project-so-far-why-what-where-when-how-81f252c08386)
-6. [Telling the story of your project / research](https://medium.com/@domonic_bishop/3-take-aways-from-get-the-most-out-of-your-research-with-storytelling-1bf9e8bb13d8)
+6. [If you could be the character in your own fictional story. What type of character would you be and why?](https://medium.com/@domonic_bishop/if-you-could-be-the-character-in-your-own-fictional-story-69245f66cdef)
 7. [UX choreography](https://medium.com/@domonic_bishop/3-main-take-aways-from-the-principles-of-ux-choreography-b89fbcf0d490)
 
 ## [Research Pack](https://drive.google.com/open?id=1ZzpOAogtA2OiX-jvpGDOexpM2HZ3hbBRjK6F4RL6mSU)
