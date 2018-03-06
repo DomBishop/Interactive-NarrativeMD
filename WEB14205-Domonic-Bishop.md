@@ -30,7 +30,11 @@
 
 ## [Research Pack](https://drive.google.com/open?id=1ZzpOAogtA2OiX-jvpGDOexpM2HZ3hbBRjK6F4RL6mSU)
 
+The research pack shows what was inspiring us along the way. We explain how we tried to incorporate different elements into our project, such as how we came up with the idea of multiple endings. And what writers and stories inspired us to write the narrative that we did.
+
 ## [Meta Narrative](https://drive.google.com/open?id=16KBjz8Gv0RbDfv04seh4NkCbY8lHUhUjjN-ayZhn7Zw)
+
+The meta-narrative is similar to a Dungeons and Dragons scenario. The narrative serves as a baseline for the user, and then the user will contribute to the story through tweets giving hints to our characters. These tweets will then be used to craft the next chapter of the story. If the story were a timeline, it would simply alternate between the online story and IRL experience until we concluded it. This also brings to light the fact that our story ends when we or the users want it to. Our story is built to be moulded by others, that way we can fully utilise user interaction online and offline.
 
 ## [Twine Production](https://drive.google.com/open?id=1szO_1wCfqZZy63zy46R2nPLbEvU-Vk8v)
 
