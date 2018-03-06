@@ -2,7 +2,7 @@
 
 ## Domonic Bishop
 
-<img src="https://i.imgur.com/7stDDtI.jpg" width="600">
+<img src="https://i.imgur.com/7stDDtI.jpg" width="300">
 
 ## Index
 - [Presentations](#formative-link)
