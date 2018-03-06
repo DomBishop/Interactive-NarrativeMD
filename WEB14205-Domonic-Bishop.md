@@ -8,6 +8,7 @@
 - [Research Pack](#research-pack)
 - [Meta Narrative](#meta-narrative)
 - [Twine Production](#twine-production)
+- [Branding](#branding)
 - [Other and Unused Content](#other-and-unused-content)
 
 
@@ -33,6 +34,10 @@
 ## [Twine Production](https://drive.google.com/open?id=1szO_1wCfqZZy63zy46R2nPLbEvU-Vk8v)
 
 This Twine production is based upon the idea that we would promote the IRL experience at the end of each chapter indicating where the story went next. It covers the events leading up to the first IRL experience.
+
+## [Branding](https://drive.google.com/open?id=1Ps1x1_uA93FpZcYBRahK4A6I24RAdu3d)
+
+## [IRL content](https://drive.google.com/open?id=14_4dTvTGwNcZhW-ForxBMyWPOLGG_2vx)
 
 ## Other and Unused Content
 
