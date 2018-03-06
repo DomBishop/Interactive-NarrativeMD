@@ -32,7 +32,7 @@
 
 ## [Research Pack](https://drive.google.com/open?id=1ZzpOAogtA2OiX-jvpGDOexpM2HZ3hbBRjK6F4RL6mSU)
 
-The research pack shows what was inspiring us along the way. We explain how we tried to incorporate different elements into our project, such as how we came up with the idea of multiple endings. And what writers and stories inspired us to write the narrative that we did.
+The research pack shows what was inspiring us along the way. We explain how we tried to incorporate different elements into our project, such as how we came up with the idea of multiple endings. And what writers and stories inspired us to write the narrative that we did. Specifically, it references sources of works that held a lot of the same elements we were trying to implement at some stage of the project.
 
 ## [Meta Narrative](https://drive.google.com/open?id=16KBjz8Gv0RbDfv04seh4NkCbY8lHUhUjjN-ayZhn7Zw)
 
