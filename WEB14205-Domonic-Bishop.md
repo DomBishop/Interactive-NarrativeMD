@@ -2,6 +2,8 @@
 
 ## Domonic Bishop
 
+<img src="https://i.imgur.com/7stDDtI.jpg" width="600">
+
 ## Index
 - [Presentations](#formative-link)
 - [Blogs](#blogs)
@@ -43,6 +45,8 @@ This Twine production is based upon the idea that we would promote the IRL exper
 ## [Branding](https://drive.google.com/open?id=1Ps1x1_uA93FpZcYBRahK4A6I24RAdu3d)
 
 ## [IRL content](https://drive.google.com/open?id=14_4dTvTGwNcZhW-ForxBMyWPOLGG_2vx)
+
+<img src="https://i.imgur.com/UaL8Vcj.jpg" width="600">
 
 ## Other and Unused Content
 
